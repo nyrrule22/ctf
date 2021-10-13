@@ -2,15 +2,13 @@
 
 * [CTF README](README.md)
 
-## System
+## Networking
 
-* [Enumeration](system/enumeration.md)
+* [Enumeration](networking/enumeration.md)
 
 ## Web
 
 * [Enumeration](web/enumeration.md)
-* [Tools](web/tools.md)
-* [Examples](web/examples.md)
 
 ## Steganography
 
@@ -27,3 +25,7 @@
 ## Privilege Escalation
 
 * [Enumeration](privilege-escalation/enumeration.md)
+
+## AWS
+
+* [Enumeration](aws/enumeration.md)
