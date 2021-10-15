@@ -2,6 +2,10 @@
 
 * [CTF README](README.md)
 
+## OSINT
+
+* [Enumeration](osint/enumeration.md)
+
 ## Networking
 
 * [Enumeration](networking/enumeration.md)
@@ -18,6 +22,10 @@
 
 * [Enumeration](cryptography/enumeration.md)
 
+## Forensics
+
+* [Enumeration](forensics/enumeration.md)
+
 ## Reversing
 
 * [Enumeration](reversing/enumeration.md)
@@ -29,3 +37,7 @@
 ## AWS
 
 * [Enumeration](aws/enumeration.md)
+
+## Misc
+
+* [Enumeration](misc/enumeration.md)
