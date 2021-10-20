@@ -2,42 +2,16 @@
 
 * [CTF README](README.md)
 
-## OSINT
+## Challenges
 
-* [Enumeration](osint/enumeration.md)
-
-## Networking
-
-* [Enumeration](networking/enumeration.md)
-
-## Web
-
-* [Enumeration](web/enumeration.md)
-
-## Steganography
-
-* [Enumeration](steganography/enumeration.md)
-
-## Cryptography
-
-* [Enumeration](cryptography/enumeration.md)
-
-## Forensics
-
-* [Enumeration](forensics/enumeration.md)
-
-## Reversing
-
-* [Enumeration](reversing/enumeration.md)
-
-## Privilege Escalation
-
-* [Enumeration](privilege-escalation/enumeration.md)
-
-## AWS
-
-* [Enumeration](aws/enumeration.md)
-
-## Misc
-
-* [Enumeration](misc/enumeration.md)
+* [OSINT](challenges/osint.md)
+* [Networking](challenges/networking.md)
+* [Web](challenges/web.md)
+* [Stego](challenges/stego.md)
+* [Crypto](challenges/crypto.md)
+* [Reversing](challenges/reversing.md)
+* [Forensics](challenges/forensics.md)
+* [PWN](challenges/pwn.md)
+* [PrivEsc](challenges/privesc.md)
+* [AWS](challenges/aws.md)
+* [Misc](challenges/misc.md)
