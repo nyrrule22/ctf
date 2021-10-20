@@ -15,6 +15,10 @@
   * Via Login, Signup, Forgot password. Check for response
   * Check Socials i.e. LinkedIn, Twitter to see if the link to actual users
   * Check other pages i.e. About, blog, contact etc.
+* Check input boxes
+  * For SSRF, RCE, LFI, HTML, SQLi, XSS
+    * `iframe src='file:///etc/passwd' style='width:100%;height:100px' />`
+    * `iframe src='195.254.170.2/v2/metadata' style='width:100%;height:100px' />`
 * Intercept login/register request for token i.e. JWT
   * See if you can decode the token and replace the login information with new values such as for the admin user.
 

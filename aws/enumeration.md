@@ -21,7 +21,10 @@ AWS Access Key ID: <AWS_ACCESS_KEY_ID>
 AWS Secret Access Key: <AWS_SECRET_ACCESS_KEY>
 
 aws s3 ls  # Check which buckets are available to use
+aws s3 ls <bucket-name>  # Check the contents of a bucket
 aws s3api get-bucket-tagging --<bucket-name>  # Check for any bucket tags
+# If you can't view specific file in a found bucket, you may be able to copy it locally
+aws s3 cp s3://<bucket-name>/file-name .
 
 aws lambda list-functions  # Check for any lambda functions
 aws lambda list-tags --resource <FunctionArn>  # Check for lambda function tags
